@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Just Java</string>
+    <string name="decrease">-</string>
+    <string name="increase">+</string>
+    <string name="order_button">Sanwo</string>
+    <string name="order_summary">Isiro Oja</string>
+    <string name="quantity_header">Iye</string>
+    <string name="toppings_header">Afikun</string>
+</resources>

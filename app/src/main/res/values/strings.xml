@@ -1,0 +1,31 @@
+<resources xmlns:xLiff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <!--Header Text for list of toppings [char limit = 20]-->
+    <string name="toppings_header">Toppings</string>
+    <!--Available Toppings-->
+    <string name="toppings1" translatable="false">Whipped Cream</string>
+    <string name="toppings2" translatable="false">Chocolate</string>
+    <!--Header Text for quantity ordered-->
+    <string name="quantity_header">Quantity</string>
+    <string name="decrease">-</string>
+    <!--quantity ordered-->
+    <string name="quantity" translatable="false">0</string>
+    <string name="increase">+</string>
+    <!--order button-->
+    <string name="order_button">order</string>
+    <!--Thank you text-->
+    <string name="thank_you">Thank You!!</string>
+    <!--Text to indicate if whipped cream was added-->
+    <string name="add_whipped_cream">Add Whipped Cream?</string>
+    <!--Text to indicate if whipped cream was added-->
+    <string name="add_chocolate">Add Chocolate?</string>
+    <!--The following text shows the customers name and displays as follows: "Customer Name: name" -->
+    <string name="customers_name">Customers Name: <xLiff:g example="theCount" id="usersName">%s</xLiff:g> </string>
+    <!--The following text shows the Total cost of order placed and the currency, it displays as follows: "Total: $" -->
+    <string name="total">Total: $</string>
+    <!--The following text is the subject of the email that would be sent-->
+    <string name="email_subject">Coffee Orders</string>
+</resources>
+
+
+
